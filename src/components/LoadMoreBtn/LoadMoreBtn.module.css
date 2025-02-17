@@ -1,0 +1,27 @@
+.loadBtnContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.loadMoreBtn {
+  border-radius: 8px;
+  padding: 8px 16px;
+  min-width: 125px;
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  color: #f6f6f6;
+  text-align: center;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.75);
+  font-size: large;
+}
+
+.loadMoreBtn:hover {
+  background-color: #f6f6f6;
+  color: rgba(0, 0, 0, 0.5);
+  transition: background-color 0.4s linear;
+}
