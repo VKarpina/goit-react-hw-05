@@ -1,8 +1,0 @@
-.imageGallery {
-  max-width: 1128px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 0 auto;
-  gap: 24px;
-}
