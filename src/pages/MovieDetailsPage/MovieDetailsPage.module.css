@@ -1,0 +1,61 @@
+.btnWrapper {
+  margin-left: 15px;
+  margin-bottom: 5px;
+}
+
+.backBtn {
+  outline: auto;
+  padding: 4px;
+}
+
+.arrow {
+  margin-right: 5px;
+}
+
+.backBtn:hover,
+.arrow:hover {
+  color: #4fa94d;
+}
+
+.posterContainer {
+  display: flex;
+  border-bottom: 1px solid rgb(18, 19, 18);
+  padding: 8px 0;
+  margin-bottom: 16px;
+}
+
+.posterText {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 20px;
+}
+
+.img {
+  height: 400px;
+}
+
+.titleAdditional {
+  margin-left: 15px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.list {
+  border-bottom: 1px solid rgb(138, 143, 138);
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.item {
+  margin-left: 30px;
+  list-style: inside;
+  color: #336631;
+  text-decoration: underline;
+}
+
+.item:hover {
+  text-decoration: none;
+  color: #4fa94d;
+}

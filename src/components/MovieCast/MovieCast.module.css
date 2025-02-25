@@ -1,0 +1,16 @@
+.img {
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+
+.name {
+  display: list-item;
+  list-style: inside;
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.character {
+  margin-left: 50px;
+  margin-bottom: 10px;
+}

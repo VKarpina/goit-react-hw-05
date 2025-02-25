@@ -1,10 +1,11 @@
 .item {
-}
-
-.item:hover {
+  list-style: inside;
+  margin-left: 30px;
+  color: #336631;
   text-decoration: underline;
 }
 
-.active {
-  color: orange;
+.item:hover {
+  text-decoration: none;
+  color: #4fa94d;
 }
